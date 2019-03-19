@@ -2,6 +2,7 @@
 
 * It's called SACRED GAMES.
 * The game is not that tough and you can win it with luck or with your smartness.
+* Tools used to build this app is MacOS, IntelliJ. If possible i=use them for better experience.
 
 ## Goal
 The goal was to write a command line based role playing game.
@@ -12,13 +13,9 @@ The goal was to write a command line based role playing game.
 
 ## Running
 ### IDE
-just run `main` method in `priv.rdo.rpg.Main` class
+just run `main` method in `priv.vd.rpg.Main` class
 
-JAR
-------------------
-```
-java -jar cli-sacred-games-1.0.0.jar
-```
+
 
 ## Building
 

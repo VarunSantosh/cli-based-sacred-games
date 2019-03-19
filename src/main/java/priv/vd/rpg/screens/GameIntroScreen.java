@@ -11,7 +11,7 @@ import priv.vd.rpg.util.ValidationUtil;
 public class GameIntroScreen implements Screen{
 
     private static final Logger LOG = LogManager.getLogger(GameIntroScreen.class);
-    private static final String fileName = "sacredGames.txt";
+    private static final String fileName = "SacredGames.txt";
 
     @Override
     public void showMessage() {
