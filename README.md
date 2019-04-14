@@ -7,10 +7,6 @@
 ## Goal
 The goal was to write a command line based role playing game.
 
-## General comments
-* I didn't really have much time to do this, so there are still many things to be improved.
-* Test coverage is not sufficient, but since major part of the application is printing in console didn't get time to write test cases using Spock.
-
 ## Running
 ### IDE
 just run `main` method in `priv.vd.rpg.Main` class
